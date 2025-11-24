@@ -1,0 +1,5 @@
+{
+  "name": "FinReceipt Manager",
+  "description": "A financial data entry dashboard for managing receipts, loans, and transaction records for community organizations.",
+  "requestFramePermissions": []
+}
